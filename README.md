@@ -1,6 +1,3 @@
-# hello-world
-Hello GIST604B Spring 2024
-
 #**About Me**
 - GIS Analyst at City of Daphne in Alabama
 - Married with 2 little girls, 4 years old and almost 2 years old.
